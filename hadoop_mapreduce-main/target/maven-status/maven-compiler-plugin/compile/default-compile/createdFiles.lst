@@ -1,0 +1,8 @@
+org/vmk/dimetriy/XmlUtils.class
+org/vmk/dimetriy/CountryItPopularity$LocationReducer.class
+org/vmk/dimetriy/CountryItPopularity.class
+org/vmk/dimetriy/CountryItPopularity$CommentsMapper.class
+org/vmk/dimetriy/CountryItPopularity$LocationCounter.class
+org/vmk/dimetriy/CountryItPopularity$UsersMapper.class
+org/vmk/dimetriy/CountryItPopularity$LocationMapper.class
+org/vmk/dimetriy/CountryItPopularity$PostsMapper.class
